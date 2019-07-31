@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "html5-filesaver.js",
+      "/home/rodolfo/git/sagui/sagui-plugins-ui"
+    ]
+  ],
+  "_from": "html5-filesaver.js@latest",
+  "_id": "html5-filesaver.js@0.0.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/html5-filesaver.js",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "email": "carlos.algms@gmail.com",
+    "name": "carlos.algms"
+  },
+  "_npmVersion": "2.11.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "html5-filesaver.js",
+    "raw": "html5-filesaver.js",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/html5-filesaver.js/-/html5-filesaver.js-0.0.2.tgz",
+  "_shasum": "ffbd54a83b213f364888696d12c70676d06f49c4",
+  "_shrinkwrap": null,
+  "_spec": "html5-filesaver.js",
+  "_where": "/home/rodolfo/git/sagui/sagui-plugins-ui",
+  "author": {
+    "name": "Carlos A. Gomes"
+  },
+  "bugs": {
+    "url": "https://github.com/carlos-algms/FileSaver.js/issues"
+  },
+  "dependencies": {},
+  "description": "An HTML5 saveAs() FileSaver implementation",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^2.0.1",
+    "load-grunt-tasks": "^3.2.0",
+    "time-grunt": "^1.2.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "ffbd54a83b213f364888696d12c70676d06f49c4",
+    "tarball": "https://registry.npmjs.org/html5-filesaver.js/-/html5-filesaver.js-0.0.2.tgz"
+  },
+  "gitHead": "4b4ca3adce6af336778928feaff1125315428d8c",
+  "homepage": "https://github.com/carlos-algms/FileSaver.js",
+  "license": "MIT",
+  "main": "FileSaver.js",
+  "maintainers": [
+    {
+      "name": "carlos.algms",
+      "email": "carlos.algms@gmail.com"
+    }
+  ],
+  "name": "html5-filesaver.js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-algms/FileSaver.js.git"
+  },
+  "scripts": {},
+  "version": "0.0.2"
+}
