@@ -13,7 +13,7 @@ Bower Installation
 ------------------
 
 ```bash
-bower install FileSaver.js --save-dev
+bower install html5-filesaver-ufscar.js
 ```
 
 Looking for `canvas.toBlob()` for saving canvases? Check out
