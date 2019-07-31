@@ -1,4 +1,4 @@
-FileSaver.js
+FileSaver.js 
 ============
 
 FileSaver.js implements the HTML5 W3C `saveAs()` FileSaver interface in browsers that do
